@@ -1,0 +1,15 @@
+// Scalability sanity test: many single-qubit ops
+circuit: 11 qubits
+X(0)
+X(1)
+H(2)
+X(3)
+X(4)
+X(5)
+x(6)
+X(7)
+X(8)
+X(9)
+X(10)
+measure 0..10
+

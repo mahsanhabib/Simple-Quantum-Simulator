@@ -1,0 +1,13 @@
+// My test case
+circuit: 12 qubits
+X(0)
+X(0)
+X(0)
+X(0)
+X(0)
+X(0)
+X(0)
+X(0)
+X(0)
+X(0)
+measure 0..11
